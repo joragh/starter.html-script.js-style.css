@@ -1,5 +1,5 @@
 function contactMessage() {
-    alert("Na kontaktoni në 044 123 456 📞");
+    alert("Na kontaktoni në 045 131 082 📞");
 }
 window.onload = function() {
     alert("Mirësevini në Laundry Service 🧺✨");
